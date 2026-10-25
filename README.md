@@ -15,6 +15,11 @@
 
 仓库中的音频格式为 WAV 和 MP3。西片的录制视频不包含在仓库中。
 
+### 数据来源
+
+- 西片：来自[梶裕贵朗读《小王子》上篇的 YouTube 播放列表](https://youtube.com/playlist?list=PLjZfNERAeIo_u0Vl24QBzpQg5-4WYtigJ)。
+- 高木：来自 [AI Hobbyist 论坛资源页面](https://www.ai-hobbyist.com/forum.php?mod=viewthread&tid=158&page=1&authorid=43314)。
+
 ## 日本語
 
 このリポジトリには、高木さんと西片のドライボイス音声素材を収録しています。RVC の音声変換モデルの学習に利用できます。
@@ -30,6 +35,11 @@
 
 音声形式は WAV と MP3 です。西片の録画映像はこのリポジトリに含まれていません。
 
+### データの出典
+
+- 西片：梶裕貴による『星の王子さま』前編朗読の [YouTube プレイリスト](https://youtube.com/playlist?list=PLjZfNERAeIo_u0Vl24QBzpQg5-4WYtigJ)。
+- 高木： [AI Hobbyist フォーラムのリソースページ](https://www.ai-hobbyist.com/forum.php?mod=viewthread&tid=158&page=1&authorid=43314)。
+
 ## English
 
 This repository contains dry voice recordings of Takagi and Nishikata for training RVC voice conversion models.
@@ -44,3 +54,8 @@ This repository contains dry voice recordings of Takagi and Nishikata for traini
 | `西片干声数据集/可用素材/` | Usable Nishikata voice clips | 270 |
 
 The audio formats are WAV and MP3. Nishikata's recorded video is not included in this repository.
+
+### Data Sources
+
+- Nishikata: [YouTube playlist of Kaji Yuki reading Part 1 of *The Little Prince*](https://youtube.com/playlist?list=PLjZfNERAeIo_u0Vl24QBzpQg5-4WYtigJ).
+- Takagi: [Resource page on the AI Hobbyist forum](https://www.ai-hobbyist.com/forum.php?mod=viewthread&tid=158&page=1&authorid=43314).

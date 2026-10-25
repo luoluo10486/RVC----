@@ -20,6 +20,8 @@
 - 西片：来自[梶裕贵朗读《小王子》上篇的 YouTube 播放列表](https://youtube.com/playlist?list=PLjZfNERAeIo_u0Vl24QBzpQg5-4WYtigJ)。
 - 高木：来自 [AI Hobbyist 论坛资源页面](https://www.ai-hobbyist.com/forum.php?mod=viewthread&tid=158&page=1&authorid=43314)。
 
+> **重要说明：** 西片素材只是声优梶裕贵的原声朗读，并非真正的西片角色声音。如果你需要真正的西片声音，请自行寻找其他合适的素材。
+
 ## 日本語
 
 このリポジトリには、高木さんと西片のドライボイス音声素材を収録しています。RVC の音声変換モデルの学習に利用できます。
@@ -40,6 +42,8 @@
 - 西片：梶裕貴による『星の王子さま』前編朗読の [YouTube プレイリスト](https://youtube.com/playlist?list=PLjZfNERAeIo_u0Vl24QBzpQg5-4WYtigJ)。
 - 高木： [AI Hobbyist フォーラムのリソースページ](https://www.ai-hobbyist.com/forum.php?mod=viewthread&tid=158&page=1&authorid=43314)。
 
+> **重要な注意：** 西片の素材は声優・梶裕貴本人による朗読音声であり、実際の西片役の音声ではありません。西片本人の声が必要な場合は、別の素材を各自で探してください。
+
 ## English
 
 This repository contains dry voice recordings of Takagi and Nishikata for training RVC voice conversion models.
@@ -59,3 +63,5 @@ The audio formats are WAV and MP3. Nishikata's recorded video is not included in
 
 - Nishikata: [YouTube playlist of Kaji Yuki reading Part 1 of *The Little Prince*](https://youtube.com/playlist?list=PLjZfNERAeIo_u0Vl24QBzpQg5-4WYtigJ).
 - Takagi: [Resource page on the AI Hobbyist forum](https://www.ai-hobbyist.com/forum.php?mod=viewthread&tid=158&page=1&authorid=43314).
+
+> **Important note:** The Nishikata material is the voice actor Kaji Yuki's original reading voice, not the actual voice of the Nishikata character. If you need authentic Nishikata character audio, please find separate source material.
